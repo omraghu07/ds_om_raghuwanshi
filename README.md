@@ -1,5 +1,3 @@
-# ds_om_raghuwanshi
-
 
 ## 🎯 Project Overview
 
