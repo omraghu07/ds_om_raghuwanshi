@@ -1,0 +1,21 @@
+metric,value
+Total Trades Analyzed,35562.0
+Fear Trades,18094.0
+Greed Trades,17468.0
+Avg PnL (Fear),101.94674077113962
+Avg PnL (Greed),101.31052390164872
+PnL Difference,-0.6362168694908945
+Avg Leverage (Fear),0.0
+Avg Leverage (Greed),0.0
+Leverage Difference,0.0
+Win Rate (Fear) %,39.14004642422903
+Win Rate (Greed) %,46.891458667277305
+Win Rate Difference %,7.751412243048279
+Total Volume (Fear),98457660.83231406
+Total Volume (Greed),261658567.78897202
+Volume Ratio,2.6575744901619176
+Risk Exposure (Fear),0.0
+Risk Exposure (Greed),0.0
+Risk Difference,0.0
+Model Accuracy %,82.10319133980036
+Model F1-Score,0.8204901820086743

@@ -1,0 +1,7 @@
+Test,Statistic,P-Value,Significant_α_0.05
+T-Test (PnL),,0.9652492782685892,False
+Mann-Whitney U (PnL),,2.7429508195082647e-45,True
+T-Test (Leverage),,,False
+Mann-Whitney U (Leverage),,,False
+Chi-Square (Win Rate),,2.980652320142415e-49,True
+Mann-Whitney U (Risk Exposure),,,False
